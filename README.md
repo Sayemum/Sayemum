@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BrawlBattle, formally, Sayemum "Simon" Hassan
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Python, JavaScript, HTML, and CSS.
+- 👀 I’m interested in game developing
+- 🌱 I’m familiar with Python, Java, and Lua.
 - 💞️ I’m looking to collaborate on computer programming related projects.
 - 📫 How to reach me:
 -  email: sayemumhassan@gmail.com
