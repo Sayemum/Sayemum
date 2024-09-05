@@ -3,7 +3,7 @@
 - 🌱 I’m familiar with the languages Python, Java, HTML, CSS, JavaScript, PostgreSQL, and Lua.
 - 💞️ I’m looking to collaborate on computer programming related projects.
 - 📫 How to reach me:
--  personal: sayemumhassan@gmail.com
+-  work: sayemumh.work@gmail.com
 -  school: hassansn@dukes.jmu.edu
 
 <!---
